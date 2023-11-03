@@ -1,3 +1,3 @@
 <?php 
-    echo "Buổi 1: Học PHP";
+    echo "Buổi 1: PHP";
 ?>
